@@ -1,0 +1,11 @@
+C:\Users\wilky\Documents\NSS\car-factory\obj\Debug\netcoreapp3.0\car-factory.csprojAssemblyReference.cache
+C:\Users\wilky\Documents\NSS\car-factory\obj\Debug\netcoreapp3.0\car-factory.AssemblyInfoInputs.cache
+C:\Users\wilky\Documents\NSS\car-factory\obj\Debug\netcoreapp3.0\car-factory.AssemblyInfo.cs
+C:\Users\wilky\Documents\NSS\car-factory\bin\Debug\netcoreapp3.0\car-factory.exe
+C:\Users\wilky\Documents\NSS\car-factory\bin\Debug\netcoreapp3.0\car-factory.deps.json
+C:\Users\wilky\Documents\NSS\car-factory\bin\Debug\netcoreapp3.0\car-factory.runtimeconfig.json
+C:\Users\wilky\Documents\NSS\car-factory\bin\Debug\netcoreapp3.0\car-factory.runtimeconfig.dev.json
+C:\Users\wilky\Documents\NSS\car-factory\bin\Debug\netcoreapp3.0\car-factory.dll
+C:\Users\wilky\Documents\NSS\car-factory\bin\Debug\netcoreapp3.0\car-factory.pdb
+C:\Users\wilky\Documents\NSS\car-factory\obj\Debug\netcoreapp3.0\car-factory.dll
+C:\Users\wilky\Documents\NSS\car-factory\obj\Debug\netcoreapp3.0\car-factory.pdb
